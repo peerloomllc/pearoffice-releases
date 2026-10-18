@@ -1,14 +1,9 @@
-# PearOffice releases
+# PearOffice releases (moved)
 
-Downloads of [PearOffice](https://peerloomllc.com), spreadsheets, documents and slides you share and edit together, straight between your devices. No accounts, no servers, no cloud.
+New versions of [PearOffice](https://peerloomllc.com) are published on the main repository:
 
-Get the latest version from [Releases](https://github.com/peerloomllc/pearoffice-releases/releases/latest):
+**https://github.com/peerloomllc/pearoffice/releases/latest**
 
-- **Linux:** the AppImage, or the .deb for Debian and Ubuntu
-- **Mac:** the .dmg for Apple silicon (arm64) or Intel (x64)
-- **Windows:** PearOffice-Setup
-- **Seeder for Linux servers:** pearoffice-seeder for x64 or arm64
-
-Every file has a `.sha256` next to it. The desktop app and the seeder check this page for new versions.
+This page keeps the releases up to 1.1.2 and gets no new ones. Desktop installs of 1.1.2 and later check the main repository for updates; older installs update to 1.1.2 from here first.
 
 PearOffice is made by PeerLoom LLC and is MIT licensed.
